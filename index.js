@@ -10,4 +10,25 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
+//function greet("content" )
+//{ 
+
+
+
+
+
+
+
 /* Write your implementation of displayMessage() */
+function displayMessage(content){
+  
+  document.getElementById('greeting').innerText=content;
+}
+
+
+
+
+
+
+
+
