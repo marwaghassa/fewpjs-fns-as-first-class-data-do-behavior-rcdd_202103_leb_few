@@ -14,7 +14,7 @@ function greet(time)
 { 
 
 
-const hour=parseInt()
+const hour=parseInt(time,)
 
 
 
